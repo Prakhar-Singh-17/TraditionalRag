@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What should the organization determine when planning its information security objectives?",
+        "expected_chunks": [
+            "sample.pdf:11:0:0"
+        ]
+    },
+    {
+        "question": "What are the information security objectives required to be?",
+        "expected_chunks": [
+            "sample.pdf:11:0:0"
+        ]
+    },
+    {
+        "question": "What must top management demonstrate?",
+         "expected_chunks": [
+            "sample.pdf:8:2:0"
+        ]
+    },
+    {
+        "question": "What does the information security management system preserve?",
+        "expected_chunks": [
+            "sample.pdf:5:0:1"
+        ]
+    },
+    {
+        "question": "What happens if the answer isn't contained in the documents?",
+        "expected_pages": []
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "expected_pages": []
+    }
+]

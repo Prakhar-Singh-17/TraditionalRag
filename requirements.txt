@@ -1,0 +1,11 @@
+pydantic
+fastapi
+uvicorn[standard]
+pymupdf
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+langchain-chroma
+python-dotenv
+google-genai
